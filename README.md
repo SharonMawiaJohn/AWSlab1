@@ -254,7 +254,7 @@ To find detailed feedback on your work, choose Submission Report.
  
 
 Lab complete
- Congratulations! You have completed the lab..
+ Congratulations! You have completed the lab...
 
 At the top of this page, choose  End Lab, and then choose Yes to confirm that you want to end the lab.
 
