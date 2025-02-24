@@ -258,6 +258,6 @@ Lab complete
 
 At the top of this page, choose  End Lab, and then choose Yes to confirm that you want to end the lab.
 
-      The following message briefly appears: Ended AWS Lab Successfully.
+      The following message briefly appears: Ended AWS Lab Successfully..
 
 © 2023 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited.
