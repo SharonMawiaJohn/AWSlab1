@@ -141,4 +141,4 @@ Check if that version also disappears in the destination bucket.
 ✅ Submit Your Work.
 Go to the Submit button at the top.
 
-Check your Grades and Submission Report after a few minutes..
+Check your Grades and Submission Report after a few minutes...
